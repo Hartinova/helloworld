@@ -1,0 +1,14 @@
+C:\Users\Оксана\dotnet\helloapp\bin\Debug\net8.0\helloapp.exe
+C:\Users\Оксана\dotnet\helloapp\bin\Debug\net8.0\helloapp.deps.json
+C:\Users\Оксана\dotnet\helloapp\bin\Debug\net8.0\helloapp.runtimeconfig.json
+C:\Users\Оксана\dotnet\helloapp\bin\Debug\net8.0\helloapp.dll
+C:\Users\Оксана\dotnet\helloapp\bin\Debug\net8.0\helloapp.pdb
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.AssemblyInfoInputs.cache
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.AssemblyInfo.cs
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.dll
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\refint\helloapp.dll
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.pdb
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\helloapp.genruntimeconfig.cache
+C:\Users\Оксана\dotnet\helloapp\obj\Debug\net8.0\ref\helloapp.dll
